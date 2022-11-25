@@ -1,0 +1,12 @@
+﻿  main.cpp
+  string.cpp
+C:\Users\Acer_570G(Bohdan)\Desktop\Projects\String\string.cpp(26,10): warning C4552: "+": результат выражения не используется
+C:\Users\Acer_570G(Bohdan)\Desktop\Projects\String\string.cpp(31,10): warning C4552: "-": результат выражения не используется
+C:\Users\Acer_570G(Bohdan)\Desktop\Projects\String\string.cpp(70,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer_570G(Bohdan)\Desktop\Projects\String\string.cpp(113,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer_570G(Bohdan)\Desktop\Projects\String\string.cpp(116,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer_570G(Bohdan)\Desktop\Projects\String\string.cpp(119,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer_570G(Bohdan)\Desktop\Projects\String\string.cpp(220,34): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer_570G(Bohdan)\Desktop\Projects\String\string.cpp(221,24): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  String.vcxproj -> C:\Users\Acer_570G(Bohdan)\Desktop\Projects\String\x64\Debug\String.exe
